@@ -10,15 +10,6 @@ You can find all the sets and approximate DPS numbers here: <https://xivgear.app
 
 You can play around with the sets by clicking "Save As" under the table to make your own copy of the sheet.
 
-2.41 Crit/Det Relic
-One possible option for players with an up-to-date relic, and the slowest set of the bunch. Provides a tiny bit more DPS than the SpS set, at the expense of slightly less mobility than the faster set.
-
-2.39 Crit/SpS Relic
-Another relic option. This set gives a slightly faster GCD, giving it a little bit more mobility than the 2.41 set.
-
-2.40 Non-Relic
-Provides about a hundred simulated DPS less than the other two sets, but is the best option for players who do not have an ilvl 645 relic yet.
-
 **DSW Sets**
 
 You can find all the sets and approximate DPS numbers here: <https://xivgear.app/?page=sl%7Cdd937de0-2089-4378-acf5-91bf8db39965>
